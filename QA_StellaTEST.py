@@ -1,1 +1,1 @@
-print("6월 26일")
+print("STCLab_QA자동화 테스트")
